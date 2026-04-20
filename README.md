@@ -17,4 +17,5 @@ Beachten Sie bitte: Falls es einen Fehler gibt, sehen Sie diesen nicht direkt im
 ![gradle-errors](Bilder/gradleerror.png)
 
 Sie können auch die Tests direkt ausführen, indem Sie auf die gleiche Art den Task Tasks->verification->test ausführen. 
-Viel Erfolg!
+
+Ich wünsche Ihnen viel Erfolg!
